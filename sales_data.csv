@@ -1,0 +1,1011 @@
+order_id,order_date,category,region,customer_segment,unit_price,quantity,discount
+ORD-10000,2025-08-08,Home & Kitchen,Europe,Consumer,61.47,2,0.1
+ORD-10001,2025-06-12,Sports,Europe,Consumer,,4,0.0
+ORD-10002,2025-08-08,Books,Europe,Corporate,40.55,5,0.0
+ORD-10003,2025-09-27,Apparel,Europe,Consumer,93.22,2,0.0
+ORD-10004,2025-04-30,Electronics,Europe,Consumer,,1,0.0
+ORD-10005,2025-12-02,Electronics,Asia-Pacific,Consumer,578.21,1,0.15
+ORD-10006,2025-07-01,Electronics,Europe,Corporate,599.98,5,0.0
+ORD-10007,2025-04-16,Sports,Europe,Consumer,216.07,5,0.05
+ORD-10008,2025-08-05,Apparel,Asia-Pacific,Small Business,44.97,4,0.0
+ORD-10009,2025-07-24,Books,Europe,Consumer,27.13,3,0.0
+ORD-10010,2025-03-11,Electronics,North America,Small Business,293.79,1,0.05
+ORD-10011,2025-02-13,Sports,North America,Small Business,247.23,5,0.0
+ORD-10012,2025-11-25,Books,North America,Consumer,43.04,1,0.0
+ORD-10013,2025-10-28,Electronics,Asia-Pacific,Consumer,175.63,5,0.0
+ORD-10014,2025-08-16,Electronics,Asia-Pacific,Consumer,608.62,2,0.0
+ORD-10015,2025-07-03,Electronics,Latin America,Consumer,751.41,1,0.05
+ORD-10016,2025-04-17,Home & Kitchen,Europe,Corporate,60.7,2,0.0
+ORD-10017,2025-03-25,Apparel,Europe,Consumer,76.79,1,0.15
+ORD-10018,2025-12-04,Home & Kitchen,North America,Consumer,185.63,3,0.05
+ORD-10019,2025-09-07,Home & Kitchen,Europe,Consumer,35.77,4,0.0
+ORD-10020,2025-12-29,Apparel,Europe,Small Business,89.74,2,0.0
+ORD-10021,2025-01-21,Electronics,Latin America,Consumer,343.28,5,0.0
+ORD-10022,2025-07-15,Home & Kitchen,North America,Consumer,187.15,3,0.1
+ORD-10023,2025-06-27,Home & Kitchen,Europe,Consumer,195.08,1,0.0
+ORD-10024,2025-01-07,Home & Kitchen,Europe,Small Business,190.53,2,0.1
+ORD-10025,2025-03-11,Books,Europe,Corporate,26.6,1,0.0
+ORD-10026,2025-05-07,Electronics,Europe,Consumer,710.33,1,0.1
+ORD-10027,2025-06-09,Apparel,Asia-Pacific,Consumer,104.45,1,0.0
+ORD-10028,2025-09-05,Apparel,North America,Consumer,51.91,4,0.15
+ORD-10029,2025-07-22,Electronics,Asia-Pacific,Consumer,688.8,4,0.0
+ORD-10030,2025-05-28,Apparel,Europe,Small Business,23.7,5,0.0
+ORD-10031,2025-05-23,Electronics,Asia-Pacific,Corporate,537.58,2,0.0
+ORD-10032,2025-07-18,Electronics,Asia-Pacific,Consumer,299.51,3,0.0
+ORD-10033,2025-06-03,Sports,North America,Small Business,52.13,3,0.2
+ORD-10034,2025-05-22,Sports,North America,Consumer,42.31,3,0.0
+ORD-10035,2025-11-09,Books,Latin America,Corporate,,1,0.0
+ORD-10036,2025-06-14,Home & Kitchen,Europe,Small Business,87.78,4,0.05
+ORD-10037,2025-11-10,Electronics,Latin America,Consumer,621.1,2,0.0
+ORD-10038,2025-01-21,Apparel,North America,Corporate,26.54,1,0.05
+ORD-10039,2025-03-23,Home & Kitchen,Europe,Consumer,83.6,4,0.05
+ORD-10040,2025-03-10,Electronics,Asia-Pacific,Consumer,500.67,4,0.0
+ORD-10041,2025-05-11,Apparel,Latin America,Consumer,99.07,2,0.15
+ORD-10042,2025-03-28,Electronics,North America,Consumer,357.19,2,0.0
+ORD-10043,2025-08-06,Sports,Asia-Pacific,Corporate,165.83,2,0.0
+ORD-10044,2025-11-01,Home & Kitchen,Europe,Small Business,180.62,1,0.1
+ORD-10045,2025-12-11,Apparel,North America,Corporate,81.59,5,0.05
+ORD-10046,2025-12-07,Home & Kitchen,Europe,Small Business,69.6,2,0.0
+ORD-10047,2025-06-10,Apparel,Europe,Corporate,22.44,5,0.05
+ORD-10048,2025-06-27,Apparel,Latin America,Consumer,107.01,1,0.0
+ORD-10049,2025-04-27,Electronics,Europe,Consumer,163.83,5,0.0
+ORD-10050,2025-07-15,Sports,North America,Consumer,221.81,3,0.15
+ORD-10051,2025-11-23,Books,North America,Corporate,28.51,5,0.0
+ORD-10052,2025-03-27,Sports,Europe,Small Business,236.29,2,0.0
+ORD-10053,2025-10-16,Sports,North America,Consumer,204.73,1,0.1
+ORD-10054,2025-03-22,Apparel,Asia-Pacific,Corporate,119.79,2,0.2
+ORD-10055,2025-06-01,Sports,North America,Corporate,103.91,3,0.0
+ORD-10056,2025-03-02,Electronics,Latin America,Consumer,648.67,2,0.05
+ORD-10057,2025-03-02,Electronics,Latin America,Consumer,411.26,2,0.05
+ORD-10058,2025-12-20,Electronics,Europe,Consumer,461.92,2,0.15
+ORD-10059,2025-01-28,Home & Kitchen,Latin America,Consumer,136.68,4,0.15
+ORD-10060,2025-02-12,Home & Kitchen,Asia-Pacific,Consumer,178.53,3,0.0
+ORD-10061,2025-06-18,Home & Kitchen,Europe,Consumer,197.29,2,0.0
+ORD-10062,2025-03-27,Books,North America,Consumer,36.89,2,0.0
+ORD-10063,2025-06-26,Home & Kitchen,Europe,Consumer,101.02,2,0.1
+ORD-10064,2025-01-17,Home & Kitchen,Europe,Small Business,101.63,1,0.05
+ORD-10065,2025-04-08,Apparel,Asia-Pacific,Consumer,93.76,4,0.05
+ORD-10066,2025-07-17,Electronics,Europe,Corporate,305.21,1,0.2
+ORD-10067,2025-04-08,Books,Asia-Pacific,Consumer,13.87,4,0.0
+ORD-10068,2025-03-06,Electronics,Europe,Consumer,380.5,2,0.0
+ORD-10069,2025-11-26,Sports,North America,Small Business,89.63,3,0.0
+ORD-10070,2025-12-07,Books,Latin America,Consumer,20.37,5,0.0
+ORD-10071,2025-01-05,Electronics,Europe,Consumer,301.85,5,0.0
+ORD-10072,2025-01-02,Electronics,North America,Corporate,177.36,2,0.0
+ORD-10073,2025-01-22,Books,Europe,Consumer,10.63,1,0.05
+ORD-10074,2025-04-22,Books,North America,Consumer,44.57,3,0.15
+ORD-10075,2025-02-26,Books,Europe,Consumer,24.97,4,0.05
+ORD-10076,2025-03-07,Books,Europe,Consumer,23.45,2,0.05
+ORD-10077,2025-11-26,Electronics,Europe,Consumer,591.77,3,0.0
+ORD-10078,2025-04-08,Home & Kitchen,Latin America,Consumer,67.1,3,0.1
+ORD-10079,2025-05-24,Electronics,Europe,Small Business,767.47,4,0.1
+ORD-10080,2025-05-05,Sports,North America,Corporate,201.93,3,0.05
+ORD-10081,2025-06-16,Apparel,Europe,Corporate,28.94,1,0.0
+ORD-10082,2025-03-27,Home & Kitchen,Latin America,Corporate,100.99,1,0.0
+ORD-10083,2025-03-17,Electronics,North America,Small Business,721.43,1,0.0
+ORD-10084,2025-12-10,Home & Kitchen,North America,Consumer,190.6,3,0.05
+ORD-10085,2025-10-21,Home & Kitchen,North America,Small Business,109.46,1,0.1
+ORD-10086,2025-02-28,Books,North America,Corporate,31.47,4,0.15
+ORD-10087,2025-05-18,Apparel,Asia-Pacific,Corporate,36.7,3,0.0
+ORD-10088,2025-04-09,Sports,Asia-Pacific,Consumer,248.01,5,0.1
+ORD-10089,2025-07-11,Apparel,North America,Consumer,43.17,3,0.15
+ORD-10090,2025-08-31,Electronics,Europe,Consumer,762.78,4,0.0
+ORD-10091,2025-11-15,Books,North America,Corporate,32.74,5,0.0
+ORD-10092,2025-02-18,Books,Latin America,Consumer,31.27,3,0.15
+ORD-10093,2025-02-01,Apparel,Latin America,Corporate,71.27,1,0.0
+ORD-10094,2025-10-04,Books,North America,Consumer,18.07,2,0.15
+ORD-10095,2025-01-20,Apparel,Asia-Pacific,Consumer,37.65,2,0.2
+ORD-10096,2025-06-03,Apparel,Asia-Pacific,Consumer,42.05,1,0.05
+ORD-10097,2025-03-09,Home & Kitchen,North America,Consumer,61.69,2,0.1
+ORD-10098,2025-08-02,Electronics,North America,Consumer,656.73,2,0.1
+ORD-10099,2025-05-23,Electronics,Europe,Consumer,377.58,1,0.05
+ORD-10100,2025-08-20,Electronics,Asia-Pacific,Small Business,187.6,1,0.0
+ORD-10101,2025-08-01,Apparel,Latin America,Consumer,116.91,3,0.0
+ORD-10102,2025-03-20,Home & Kitchen,Asia-Pacific,Consumer,180.24,3,0.0
+ORD-10103,2025-08-02,Apparel,Asia-Pacific,Corporate,112.78,1,0.05
+ORD-10104,2025-04-26,Sports,Europe,Small Business,248.85,4,0.0
+ORD-10105,2025-04-02,Electronics,Asia-Pacific,Corporate,263.03,2,0.0
+ORD-10106,2025-09-27,Home & Kitchen,Asia-Pacific,Consumer,,3,0.0
+ORD-10107,2025-06-17,Books,North America,Small Business,36.54,2,0.1
+ORD-10108,2025-02-27,Electronics,Europe,Corporate,602.41,5,0.2
+ORD-10109,2025-10-11,Electronics,Asia-Pacific,Consumer,250.03,1,0.2
+ORD-10110,2025-01-26,Home & Kitchen,North America,Consumer,168.69,4,0.0
+ORD-10111,2025-03-07,Electronics,Asia-Pacific,Consumer,295.89,5,0.15
+ORD-10112,2025-09-05,Sports,North America,Consumer,75.36,5,0.1
+ORD-10113,2025-09-11,Books,Europe,Corporate,28.79,5,0.05
+ORD-10114,2025-02-13,Apparel,Asia-Pacific,Consumer,79.29,1,0.05
+ORD-10115,2025-04-07,Sports,North America,Small Business,155.52,3,0.0
+ORD-10116,2025-02-11,Books,North America,Consumer,13.2,1,0.15
+ORD-10117,2025-08-15,Electronics,Europe,Consumer,720.35,3,0.0
+ORD-10118,2025-09-19,Sports,Asia-Pacific,Consumer,,5,0.0
+ORD-10119,2025-06-16,Apparel,North America,Consumer,32.95,5,0.05
+ORD-10120,2025-10-06,Books,Latin America,Corporate,41.11,4,0.0
+ORD-10121,2025-03-30,Sports,North America,Corporate,240.02,3,0.0
+ORD-10122,2025-06-27,Home & Kitchen,Latin America,Consumer,176.56,5,0.05
+ORD-10123,2025-07-16,Electronics,Latin America,Consumer,676.19,2,0.0
+ORD-10124,2025-11-03,Electronics,Europe,Consumer,575.91,4,0.1
+ORD-10125,2025-09-24,Home & Kitchen,Europe,Corporate,123.65,1,0.05
+ORD-10126,2025-09-25,Books,Europe,Consumer,13.04,4,0.05
+ORD-10127,2025-03-15,Sports,Europe,Consumer,116.9,2,0.05
+ORD-10128,2025-01-08,Electronics,North America,Corporate,392.25,3,0.05
+ORD-10129,2025-10-24,Apparel,North America,Small Business,45.98,1,0.05
+ORD-10130,2025-06-13,Home & Kitchen,North America,Consumer,152.98,1,0.05
+ORD-10131,2025-03-26,Electronics,Europe,Consumer,472.32,3,0.1
+ORD-10132,2025-03-13,Electronics,North America,Corporate,202.68,4,0.1
+ORD-10133,2025-02-24,Home & Kitchen,Europe,Corporate,67.43,5,0.15
+ORD-10134,2025-02-16,Sports,Latin America,Consumer,178.73,4,0.0
+ORD-10135,2025-08-26,Home & Kitchen,North America,Small Business,42.94,2,0.0
+ORD-10136,2025-04-14,Apparel,Europe,Corporate,105.12,5,0.15
+ORD-10137,2025-07-29,Books,Europe,Consumer,27.33,4,0.0
+ORD-10138,2025-02-11,Home & Kitchen,Asia-Pacific,Consumer,111.7,3,0.0
+ORD-10139,2025-11-12,Sports,Latin America,Consumer,158.29,2,0.05
+ORD-10140,2025-09-25,Sports,Asia-Pacific,Corporate,210.55,2,0.0
+ORD-10141,2025-09-20,Home & Kitchen,Latin America,Consumer,89.13,2,0.0
+ORD-10142,2025-12-02,Apparel,North America,Corporate,87.8,5,0.2
+ORD-10143,2025-12-31,Home & Kitchen,Asia-Pacific,Corporate,126.17,1,0.05
+ORD-10144,2025-09-16,Home & Kitchen,Asia-Pacific,Consumer,75.39,5,0.0
+ORD-10145,2025-10-10,Electronics,North America,Corporate,721.11,4,0.2
+ORD-10146,2025-04-24,Apparel,Latin America,Small Business,99.74,1,0.2
+ORD-10147,2025-12-29,Apparel,North America,Consumer,85.85,4,0.0
+ORD-10148,2025-02-09,Electronics,Europe,Consumer,702.88,1,0.0
+ORD-10149,2025-08-08,Home & Kitchen,North America,Consumer,177.44,5,0.1
+ORD-10150,2025-05-09,Sports,Europe,Small Business,184.38,2,0.1
+ORD-10151,2025-01-08,Electronics,Asia-Pacific,Small Business,694.06,3,0.05
+ORD-10152,2025-04-11,Electronics,Europe,Consumer,603.36,2,0.15
+ORD-10153,2025-06-25,Apparel,Europe,Corporate,88.01,5,0.05
+ORD-10154,2025-04-17,Sports,North America,Consumer,164.19,1,0.0
+ORD-10155,2025-04-11,Electronics,Asia-Pacific,Consumer,639.27,2,0.05
+ORD-10156,2025-09-17,Apparel,North America,Consumer,35.86,5,0.0
+ORD-10157,2025-09-03,Books,Europe,Consumer,40.83,4,0.1
+ORD-10158,2025-10-02,Electronics,Latin America,Consumer,716.7,3,0.05
+ORD-10159,2025-02-01,Books,Asia-Pacific,Consumer,11.02,2,0.0
+ORD-10160,2025-05-17,Home & Kitchen,Europe,Consumer,170.39,1,0.05
+ORD-10161,2025-01-12,Apparel,Asia-Pacific,Small Business,32.89,4,0.0
+ORD-10162,2025-10-29,Apparel,Asia-Pacific,Consumer,53.51,5,0.0
+ORD-10163,2025-01-16,Apparel,Asia-Pacific,Consumer,94.35,3,0.05
+ORD-10164,2025-05-09,Electronics,Europe,Consumer,254.49,1,0.0
+ORD-10165,2025-03-04,Books,North America,Corporate,38.63,5,0.1
+ORD-10166,2025-04-19,Home & Kitchen,North America,Consumer,171.46,5,0.0
+ORD-10167,2025-01-21,Electronics,North America,Consumer,479.85,2,0.05
+ORD-10168,2025-06-07,Electronics,Europe,Small Business,154.15,2,0.1
+ORD-10169,2025-09-26,Apparel,North America,Consumer,48.7,1,0.05
+ORD-10170,2025-06-11,Apparel,Europe,Consumer,81.69,5,0.0
+ORD-10171,2025-09-17,Electronics,North America,Corporate,787.77,2,0.2
+ORD-10172,2025-04-12,Apparel,North America,Consumer,83.18,3,0.0
+ORD-10173,2025-08-11,Electronics,Asia-Pacific,Consumer,318.87,3,0.0
+ORD-10174,2025-02-28,Apparel,Europe,Consumer,83.4,5,0.0
+ORD-10175,2025-09-04,Electronics,North America,Consumer,500.99,2,0.0
+ORD-10176,2025-05-08,Apparel,Asia-Pacific,Consumer,97.98,1,0.2
+ORD-10177,2025-10-10,Home & Kitchen,North America,Consumer,48.19,1,0.0
+ORD-10178,2025-11-21,Sports,Asia-Pacific,Consumer,196.23,1,0.1
+ORD-10179,2025-01-25,Electronics,Asia-Pacific,Consumer,501.82,3,0.1
+ORD-10180,2025-05-11,Home & Kitchen,North America,Corporate,193.71,2,0.0
+ORD-10181,2025-12-19,Electronics,Asia-Pacific,Consumer,372.22,2,0.05
+ORD-10182,2025-07-15,Sports,Europe,Consumer,167.34,3,0.0
+ORD-10183,2025-10-08,Sports,Europe,Small Business,234.71,1,0.0
+ORD-10184,2025-06-03,Home & Kitchen,North America,Corporate,47.43,1,0.0
+ORD-10185,2025-05-13,Apparel,North America,Consumer,113.72,5,0.15
+ORD-10186,2025-08-15,Books,Latin America,Small Business,34.08,4,0.2
+ORD-10187,2025-07-08,Apparel,North America,Consumer,26.78,2,0.0
+ORD-10188,2025-09-22,Apparel,Europe,Consumer,50.1,2,0.0
+ORD-10189,2025-05-14,Electronics,Europe,Corporate,610.31,2,0.1
+ORD-10190,2025-07-30,Electronics,Europe,Consumer,193.78,4,0.0
+ORD-10191,2025-03-01,Sports,North America,Consumer,155.99,5,0.15
+ORD-10192,2025-12-30,Sports,North America,Consumer,102.82,4,0.05
+ORD-10193,2025-12-30,Apparel,Asia-Pacific,Consumer,82.09,1,0.0
+ORD-10194,2025-08-01,Home & Kitchen,North America,Consumer,37.78,1,0.1
+ORD-10195,2025-08-04,Home & Kitchen,North America,Small Business,178.16,2,0.0
+ORD-10196,2025-08-14,Books,North America,Consumer,44.07,3,0.15
+ORD-10197,2025-05-11,Sports,Europe,Small Business,243.0,2,0.15
+ORD-10198,2025-03-17,Sports,Asia-Pacific,Consumer,193.67,3,0.0
+ORD-10199,2025-10-13,Books,North America,Corporate,14.55,4,0.0
+ORD-10200,2025-10-04,Apparel,North America,Corporate,95.83,1,0.2
+ORD-10201,2025-06-05,Electronics,North America,Corporate,165.98,3,0.15
+ORD-10202,2025-09-05,Electronics,Asia-Pacific,Consumer,164.38,4,0.0
+ORD-10203,2025-08-06,Sports,Europe,Consumer,97.81,1,0.1
+ORD-10204,2025-07-09,Apparel,Europe,Consumer,68.86,3,0.0
+ORD-10205,2025-06-12,Electronics,Asia-Pacific,Small Business,650.76,2,0.0
+ORD-10206,2025-06-29,Electronics,Europe,Corporate,594.14,2,0.15
+ORD-10207,2025-02-03,Apparel,Asia-Pacific,Consumer,64.59,2,0.0
+ORD-10208,2025-02-10,Electronics,Asia-Pacific,Consumer,327.86,4,0.15
+ORD-10209,2025-11-03,Electronics,North America,Consumer,798.13,2,0.0
+ORD-10210,2025-12-04,Apparel,North America,Corporate,62.62,5,0.05
+ORD-10211,2025-11-10,Apparel,North America,Consumer,,1,0.0
+ORD-10212,2025-03-16,Apparel,North America,Corporate,36.36,4,0.05
+ORD-10213,2025-10-06,Electronics,Latin America,Small Business,666.63,2,0.05
+ORD-10214,2025-06-25,Books,Europe,Consumer,34.28,1,0.0
+ORD-10215,2025-05-30,Electronics,North America,Consumer,293.5,3,0.05
+ORD-10216,2025-09-30,Home & Kitchen,Asia-Pacific,Consumer,44.0,2,0.0
+ORD-10217,2025-11-21,Books,Europe,Consumer,33.82,1,0.0
+ORD-10218,2025-04-18,Apparel,North America,Consumer,85.45,5,0.1
+ORD-10219,2025-05-19,Books,North America,Consumer,19.56,3,0.0
+ORD-10220,2025-12-16,Apparel,Europe,Small Business,115.09,5,0.05
+ORD-10221,2025-09-28,Apparel,Asia-Pacific,Consumer,35.11,1,0.05
+ORD-10222,2025-12-13,Electronics,North America,Consumer,431.02,5,0.05
+ORD-10223,2025-10-16,Home & Kitchen,North America,Small Business,190.41,1,0.0
+ORD-10224,2025-07-31,Home & Kitchen,Europe,Corporate,101.35,1,0.0
+ORD-10225,2025-09-29,Electronics,North America,Consumer,565.04,5,0.0
+ORD-10226,2025-03-07,Sports,Europe,Consumer,114.46,1,0.1
+ORD-10227,2025-09-05,Home & Kitchen,Europe,Consumer,76.62,2,0.1
+ORD-10228,2025-06-05,Sports,North America,Corporate,246.39,1,0.05
+ORD-10229,2025-02-16,Apparel,Latin America,Corporate,60.93,4,0.0
+ORD-10230,2025-07-20,Books,Europe,Corporate,41.29,1,0.0
+ORD-10231,2025-05-28,Apparel,North America,Consumer,43.0,4,0.0
+ORD-10232,2025-05-04,Apparel,Europe,Corporate,41.31,1,0.0
+ORD-10233,2025-01-01,Apparel,Asia-Pacific,Consumer,23.11,1,0.0
+ORD-10234,2025-09-04,Electronics,Asia-Pacific,Consumer,573.58,5,0.0
+ORD-10235,2025-12-09,Books,North America,Consumer,22.9,2,0.0
+ORD-10236,2025-05-08,Home & Kitchen,Latin America,Consumer,,2,0.0
+ORD-10237,2025-07-10,Electronics,Europe,Consumer,457.59,3,0.0
+ORD-10238,2025-03-08,Apparel,North America,Corporate,116.82,5,0.0
+ORD-10239,2025-01-04,Electronics,North America,Small Business,270.59,5,0.0
+ORD-10240,2025-10-30,Sports,North America,Consumer,220.44,2,0.0
+ORD-10241,2025-10-21,Sports,Asia-Pacific,Consumer,199.73,5,0.05
+ORD-10242,2025-05-23,Sports,North America,Consumer,198.46,2,0.0
+ORD-10243,2025-07-10,Home & Kitchen,North America,Consumer,173.61,5,0.0
+ORD-10244,2025-01-21,Electronics,Asia-Pacific,Consumer,644.67,1,0.0
+ORD-10245,2025-08-15,Sports,North America,Small Business,165.9,2,0.0
+ORD-10246,2025-11-09,Home & Kitchen,North America,Consumer,52.31,2,0.0
+ORD-10247,2025-04-27,Sports,North America,Consumer,32.32,4,0.0
+ORD-10248,2025-10-29,Sports,North America,Consumer,232.19,5,0.05
+ORD-10249,2025-05-22,Sports,North America,Small Business,163.75,5,0.0
+ORD-10250,2025-02-08,Home & Kitchen,Europe,Corporate,165.41,2,0.0
+ORD-10251,2025-12-21,Home & Kitchen,North America,Small Business,111.86,1,0.15
+ORD-10252,2025-09-09,Sports,North America,Corporate,51.39,1,0.0
+ORD-10253,2025-11-29,Home & Kitchen,Asia-Pacific,Consumer,51.28,1,0.0
+ORD-10254,2025-07-26,Electronics,Europe,Consumer,595.62,5,0.15
+ORD-10255,2025-07-29,Apparel,Europe,Corporate,63.03,4,0.1
+ORD-10256,2025-04-25,Sports,Europe,Consumer,70.12,2,0.0
+ORD-10257,2025-08-13,Apparel,North America,Consumer,69.16,3,0.0
+ORD-10258,2025-05-14,Apparel,Europe,Consumer,26.42,4,0.0
+ORD-10259,2025-09-08,Electronics,Europe,Consumer,,3,0.0
+ORD-10260,2025-08-07,Apparel,North America,Consumer,46.9,4,0.05
+ORD-10261,2025-04-01,Sports,Latin America,Consumer,204.45,1,0.0
+ORD-10262,2025-12-20,Electronics,North America,Corporate,351.74,5,0.0
+ORD-10263,2025-02-15,Apparel,Asia-Pacific,Consumer,65.52,3,0.15
+ORD-10264,2025-02-07,Sports,North America,Consumer,27.61,4,0.2
+ORD-10265,2025-05-22,Books,Asia-Pacific,Consumer,12.54,5,0.0
+ORD-10266,2025-04-10,Apparel,Europe,Consumer,59.25,3,0.05
+ORD-10267,2025-11-24,Books,Asia-Pacific,Consumer,26.8,2,0.0
+ORD-10268,2025-07-09,Home & Kitchen,North America,Consumer,132.0,4,0.15
+ORD-10269,2025-02-04,Home & Kitchen,Europe,Consumer,79.58,2,0.0
+ORD-10270,2025-05-27,Books,Europe,Consumer,34.32,1,0.0
+ORD-10271,2025-01-30,Books,Asia-Pacific,Consumer,40.1,2,0.0
+ORD-10272,2025-11-30,Sports,Europe,Consumer,,2,0.0
+ORD-10273,2025-03-25,Sports,Europe,Consumer,33.91,4,0.0
+ORD-10274,2025-10-08,Apparel,Europe,Consumer,68.05,1,0.1
+ORD-10275,2025-12-10,Apparel,North America,Consumer,30.49,2,0.05
+ORD-10276,2025-09-27,Books,Europe,Corporate,18.47,5,0.0
+ORD-10277,2025-06-03,Apparel,North America,Consumer,118.67,3,0.0
+ORD-10278,2025-04-12,Books,Latin America,Consumer,14.99,2,0.0
+ORD-10279,2025-08-03,Books,Asia-Pacific,Consumer,27.46,1,0.15
+ORD-10280,2025-05-30,Sports,Latin America,Corporate,164.09,2,0.15
+ORD-10281,2025-03-24,Home & Kitchen,North America,Small Business,149.42,3,0.2
+ORD-10282,2025-04-20,Home & Kitchen,Asia-Pacific,Corporate,125.14,1,0.15
+ORD-10283,2025-10-02,Electronics,Asia-Pacific,Corporate,156.35,4,0.0
+ORD-10284,2025-07-20,Apparel,Europe,Consumer,52.65,1,0.0
+ORD-10285,2025-10-11,Electronics,Europe,Corporate,486.51,4,0.05
+ORD-10286,2025-06-22,Home & Kitchen,North America,Consumer,44.94,1,0.15
+ORD-10287,2025-11-23,Apparel,Asia-Pacific,Consumer,55.06,3,0.0
+ORD-10288,2025-07-25,Home & Kitchen,Europe,Consumer,35.64,3,0.0
+ORD-10289,2025-03-04,Apparel,North America,Consumer,27.86,1,0.1
+ORD-10290,2025-03-14,Electronics,North America,Small Business,408.0,2,0.0
+ORD-10291,2025-09-08,Electronics,Latin America,Consumer,236.27,3,0.0
+ORD-10292,2025-05-04,Books,Asia-Pacific,Corporate,29.86,4,0.05
+ORD-10293,2025-05-01,Home & Kitchen,Latin America,Consumer,147.21,4,0.0
+ORD-10294,2025-10-02,Electronics,Europe,Consumer,670.38,5,0.0
+ORD-10295,2025-04-30,Apparel,North America,Consumer,40.02,4,0.1
+ORD-10296,2025-11-13,Books,North America,Consumer,15.86,5,0.05
+ORD-10297,2025-06-13,Electronics,North America,Corporate,217.97,1,0.2
+ORD-10298,2025-10-13,Apparel,North America,Consumer,83.64,1,0.0
+ORD-10299,2025-09-22,Electronics,North America,Consumer,609.21,1,0.0
+ORD-10300,2025-11-16,Electronics,North America,Corporate,170.53,2,0.1
+ORD-10301,2025-06-10,Apparel,Europe,Consumer,113.62,2,0.05
+ORD-10302,2025-11-04,Apparel,Latin America,Small Business,25.2,5,0.0
+ORD-10303,2025-03-30,Apparel,Europe,Consumer,74.13,4,0.1
+ORD-10304,2025-05-22,Books,Asia-Pacific,Consumer,34.82,4,0.0
+ORD-10305,2025-07-22,Sports,Europe,Consumer,220.97,1,0.0
+ORD-10306,2025-11-05,Apparel,North America,Consumer,91.41,3,0.0
+ORD-10307,2025-08-15,Home & Kitchen,North America,Consumer,166.29,2,0.0
+ORD-10308,2025-11-30,Books,North America,Corporate,21.88,2,0.0
+ORD-10309,2025-08-10,Home & Kitchen,North America,Small Business,168.52,1,0.05
+ORD-10310,2025-02-10,Home & Kitchen,Europe,Corporate,43.62,2,0.1
+ORD-10311,2025-07-15,Electronics,North America,Consumer,731.63,1,0.15
+ORD-10312,2025-03-09,Electronics,North America,Consumer,505.94,5,0.0
+ORD-10313,2025-09-21,Sports,North America,Consumer,208.89,4,0.0
+ORD-10314,2025-01-02,Books,Latin America,Consumer,25.83,3,0.0
+ORD-10315,2025-12-27,Apparel,Asia-Pacific,Corporate,84.36,4,0.0
+ORD-10316,2025-05-05,Home & Kitchen,Asia-Pacific,Consumer,119.49,4,0.05
+ORD-10317,2025-04-20,Electronics,North America,Consumer,625.53,5,0.1
+ORD-10318,2025-03-27,Electronics,Asia-Pacific,Consumer,203.06,2,0.1
+ORD-10319,2025-04-30,Home & Kitchen,Asia-Pacific,Small Business,40.26,3,0.0
+ORD-10320,2025-05-07,Apparel,Europe,Consumer,44.71,2,0.0
+ORD-10321,2025-09-12,Books,Latin America,Consumer,15.58,4,0.0
+ORD-10322,2025-07-02,Apparel,North America,Consumer,107.18,1,0.0
+ORD-10323,2025-01-16,Home & Kitchen,Latin America,Consumer,67.27,4,0.05
+ORD-10324,2025-03-03,Sports,Latin America,Consumer,244.57,2,0.2
+ORD-10325,2025-06-07,Books,North America,Consumer,21.79,4,0.0
+ORD-10326,2025-09-25,Apparel,Europe,Corporate,38.21,1,0.1
+ORD-10327,2025-02-04,Apparel,Latin America,Consumer,98.97,5,0.05
+ORD-10328,2025-09-24,Home & Kitchen,North America,Corporate,141.98,2,0.0
+ORD-10329,2025-03-05,Electronics,Europe,Small Business,473.83,4,0.05
+ORD-10330,2025-02-19,Home & Kitchen,Latin America,Corporate,124.41,2,0.0
+ORD-10331,2025-09-12,Books,Europe,Consumer,35.17,5,0.0
+ORD-10332,2025-05-29,Electronics,North America,Consumer,298.5,4,0.05
+ORD-10333,2025-11-21,Electronics,Europe,Corporate,797.62,4,0.15
+ORD-10334,2025-10-31,Electronics,North America,Corporate,783.62,2,0.0
+ORD-10335,2025-10-03,Electronics,Europe,Consumer,572.71,2,0.0
+ORD-10336,2025-12-23,Sports,North America,Corporate,69.9,1,0.15
+ORD-10337,2025-06-21,Books,Europe,Consumer,33.81,5,0.1
+ORD-10338,2025-07-20,Apparel,Europe,Consumer,27.22,1,0.1
+ORD-10339,2025-11-20,Electronics,Asia-Pacific,Consumer,169.92,4,0.0
+ORD-10340,2025-02-04,Apparel,Europe,Consumer,45.77,2,0.15
+ORD-10341,2025-08-04,Apparel,Europe,Consumer,66.26,4,0.0
+ORD-10342,2025-03-06,Electronics,Europe,Corporate,714.38,4,0.05
+ORD-10343,2025-01-08,Home & Kitchen,North America,Consumer,153.62,3,0.0
+ORD-10344,2025-10-28,Home & Kitchen,Europe,Consumer,156.26,3,0.05
+ORD-10345,2025-12-09,Apparel,North America,Consumer,62.55,4,0.0
+ORD-10346,2025-11-28,Apparel,Latin America,Consumer,54.59,2,0.0
+ORD-10347,2025-03-17,Electronics,North America,Consumer,391.18,4,0.0
+ORD-10348,2025-06-23,Home & Kitchen,Europe,Corporate,197.9,3,0.0
+ORD-10349,2025-02-16,Apparel,Europe,Corporate,24.01,2,0.05
+ORD-10350,2025-01-15,Apparel,Europe,Corporate,106.7,4,0.15
+ORD-10351,2025-12-27,Sports,North America,Corporate,155.2,5,0.2
+ORD-10352,2025-05-27,Apparel,Europe,Consumer,63.86,5,0.0
+ORD-10353,2025-01-26,Electronics,Europe,Consumer,621.42,4,0.1
+ORD-10354,2025-11-04,Electronics,Asia-Pacific,Consumer,466.33,2,0.05
+ORD-10355,2025-04-03,Apparel,North America,Consumer,107.34,4,0.0
+ORD-10356,2025-08-20,Electronics,Europe,Small Business,735.46,4,0.0
+ORD-10357,2025-01-21,Apparel,Europe,Consumer,62.17,3,0.05
+ORD-10358,2025-11-03,Sports,Europe,Consumer,87.29,5,0.15
+ORD-10359,2025-02-07,Apparel,Europe,Small Business,79.24,3,0.05
+ORD-10360,2025-10-03,Home & Kitchen,Europe,Small Business,185.1,3,0.0
+ORD-10361,2025-06-06,Apparel,North America,Corporate,41.07,4,0.05
+ORD-10362,2025-06-28,Home & Kitchen,North America,Consumer,135.9,3,0.0
+ORD-10363,2025-05-12,Apparel,North America,Consumer,83.16,5,0.1
+ORD-10364,2025-11-07,Sports,North America,Consumer,189.95,3,0.1
+ORD-10365,2025-12-14,Home & Kitchen,Europe,Consumer,52.37,5,0.0
+ORD-10366,2025-01-28,Sports,Europe,Consumer,186.06,3,0.15
+ORD-10367,2025-09-17,Sports,North America,Consumer,229.53,5,0.0
+ORD-10368,2025-03-17,Electronics,Latin America,Small Business,266.79,3,0.2
+ORD-10369,2025-03-08,Electronics,North America,Consumer,304.4,3,0.0
+ORD-10370,2025-12-08,Electronics,Asia-Pacific,Corporate,781.41,2,0.0
+ORD-10371,2025-07-13,Electronics,Europe,Corporate,267.64,5,0.0
+ORD-10372,2025-06-11,Electronics,North America,Consumer,705.35,5,0.0
+ORD-10373,2025-12-13,Apparel,North America,Corporate,69.23,5,0.0
+ORD-10374,2025-12-27,Electronics,Europe,Consumer,310.7,1,0.05
+ORD-10375,2025-09-14,Home & Kitchen,North America,Consumer,178.03,3,0.05
+ORD-10376,2025-03-13,Books,Latin America,Corporate,25.59,5,0.1
+ORD-10377,2025-03-28,Electronics,Europe,Consumer,484.63,1,0.0
+ORD-10378,2025-09-19,Books,Latin America,Small Business,22.57,2,0.05
+ORD-10379,2025-08-02,Home & Kitchen,North America,Consumer,130.8,5,0.0
+ORD-10380,2025-06-02,Electronics,Asia-Pacific,Consumer,256.29,5,0.1
+ORD-10381,2025-07-29,Apparel,Europe,Consumer,59.11,1,0.0
+ORD-10382,2025-03-02,Apparel,Asia-Pacific,Consumer,116.94,3,0.15
+ORD-10383,2025-09-25,Sports,North America,Consumer,83.08,2,0.1
+ORD-10384,2025-09-19,Books,Europe,Corporate,32.99,5,0.05
+ORD-10385,2025-08-06,Books,Europe,Corporate,21.38,3,0.0
+ORD-10386,2025-10-10,Home & Kitchen,Asia-Pacific,Corporate,161.49,2,0.0
+ORD-10387,2025-05-16,Electronics,North America,Consumer,235.07,4,0.0
+ORD-10388,2025-12-28,Books,Asia-Pacific,Corporate,43.94,4,0.15
+ORD-10389,2025-04-03,Books,North America,Corporate,25.88,2,0.15
+ORD-10390,2025-04-19,Sports,Asia-Pacific,Corporate,,1,0.0
+ORD-10391,2025-08-29,Home & Kitchen,Asia-Pacific,Consumer,42.49,2,0.05
+ORD-10392,2025-12-21,Home & Kitchen,Asia-Pacific,Corporate,58.86,2,0.1
+ORD-10393,2025-05-22,Books,Europe,Corporate,28.19,1,0.05
+ORD-10394,2025-10-18,Home & Kitchen,Europe,Consumer,87.29,1,0.0
+ORD-10395,2025-08-25,Sports,Latin America,Corporate,211.5,3,0.0
+ORD-10396,2025-12-06,Sports,North America,Consumer,121.95,3,0.0
+ORD-10397,2025-11-08,Home & Kitchen,Europe,Consumer,72.28,1,0.1
+ORD-10398,2025-06-26,Books,Europe,Consumer,31.6,4,0.0
+ORD-10399,2025-05-21,Books,Asia-Pacific,Consumer,34.74,4,0.0
+ORD-10400,2025-07-08,Electronics,North America,Consumer,258.58,2,0.15
+ORD-10401,2025-02-18,Sports,Europe,Corporate,62.71,5,0.05
+ORD-10402,2025-10-29,Apparel,Asia-Pacific,Consumer,23.67,2,0.15
+ORD-10403,2025-07-09,Books,North America,Corporate,35.77,2,0.0
+ORD-10404,2025-05-16,Home & Kitchen,Latin America,Small Business,142.85,5,0.0
+ORD-10405,2025-02-12,Sports,North America,Consumer,131.79,1,0.15
+ORD-10406,2025-12-19,Home & Kitchen,North America,Small Business,173.51,4,0.0
+ORD-10407,2025-03-31,Electronics,North America,Small Business,673.69,2,0.0
+ORD-10408,2025-10-22,Sports,North America,Corporate,156.7,5,0.0
+ORD-10409,2025-12-07,Electronics,Latin America,Corporate,714.38,3,0.0
+ORD-10410,2025-09-02,Home & Kitchen,North America,Small Business,64.99,2,0.0
+ORD-10411,2025-07-11,Sports,Europe,Corporate,50.18,4,0.15
+ORD-10412,2025-11-14,Sports,North America,Consumer,85.69,1,0.15
+ORD-10413,2025-04-16,Apparel,Europe,Corporate,25.71,2,0.15
+ORD-10414,2025-12-29,Apparel,Europe,Corporate,73.12,2,0.0
+ORD-10415,2025-11-06,Home & Kitchen,North America,Consumer,189.22,5,0.0
+ORD-10416,2025-08-21,Home & Kitchen,North America,Consumer,36.69,3,0.0
+ORD-10417,2025-09-22,Home & Kitchen,Asia-Pacific,Corporate,50.76,3,0.15
+ORD-10418,2025-12-10,Apparel,North America,Consumer,65.22,1,0.0
+ORD-10419,2025-02-06,Books,Europe,Small Business,42.69,4,0.05
+ORD-10420,2025-11-01,Books,North America,Consumer,21.07,1,0.1
+ORD-10421,2025-02-10,Books,Asia-Pacific,Consumer,27.75,2,0.0
+ORD-10422,2025-01-17,Electronics,North America,Consumer,177.02,2,0.0
+ORD-10423,2025-12-10,Apparel,Europe,Consumer,34.83,3,0.2
+ORD-10424,2025-10-04,Electronics,North America,Corporate,791.31,4,0.2
+ORD-10425,2025-11-03,Apparel,Latin America,Small Business,116.51,5,0.0
+ORD-10426,2025-02-28,Home & Kitchen,North America,Corporate,30.84,4,0.0
+ORD-10427,2025-07-02,Sports,Asia-Pacific,Consumer,239.16,2,0.2
+ORD-10428,2025-02-10,Home & Kitchen,Europe,Consumer,,5,0.0
+ORD-10429,2025-02-08,Electronics,North America,Corporate,714.15,4,0.0
+ORD-10430,2025-07-11,Electronics,Asia-Pacific,Small Business,445.58,4,0.0
+ORD-10431,2025-09-24,Books,North America,Consumer,28.05,5,0.05
+ORD-10432,2025-05-27,Apparel,Asia-Pacific,Consumer,68.88,2,0.0
+ORD-10433,2025-11-29,Electronics,Latin America,Consumer,583.46,4,0.0
+ORD-10434,2025-05-07,Electronics,Asia-Pacific,Small Business,240.77,5,0.0
+ORD-10435,2025-02-15,Books,North America,Corporate,11.05,2,0.05
+ORD-10436,2025-02-14,Electronics,Asia-Pacific,Consumer,350.15,5,0.2
+ORD-10437,2025-01-01,Books,Europe,Consumer,34.66,5,0.1
+ORD-10438,2025-06-17,Books,Asia-Pacific,Small Business,17.06,4,0.1
+ORD-10439,2025-04-18,Electronics,Europe,Consumer,,2,0.05
+ORD-10440,2025-01-19,Electronics,Asia-Pacific,Consumer,780.44,4,0.0
+ORD-10441,2025-11-28,Sports,Europe,Consumer,46.13,1,0.0
+ORD-10442,2025-03-13,Home & Kitchen,Europe,Consumer,144.34,1,0.15
+ORD-10443,2025-04-19,Home & Kitchen,North America,Consumer,105.44,2,0.0
+ORD-10444,2025-09-25,Books,Asia-Pacific,Corporate,40.38,5,0.0
+ORD-10445,2025-08-28,Sports,Europe,Small Business,64.86,4,0.1
+ORD-10446,2025-10-28,Sports,Europe,Corporate,180.84,4,0.0
+ORD-10447,2025-03-31,Books,Asia-Pacific,Small Business,39.33,2,0.0
+ORD-10448,2025-04-13,Home & Kitchen,Europe,Consumer,190.58,2,0.2
+ORD-10449,2025-09-07,Electronics,North America,Corporate,594.11,1,0.15
+ORD-10450,2025-01-08,Books,Europe,Consumer,27.4,3,0.0
+ORD-10451,2025-06-02,Apparel,Europe,Corporate,81.78,2,0.2
+ORD-10452,2025-12-13,Home & Kitchen,Europe,Small Business,177.71,3,0.05
+ORD-10453,2025-06-23,Sports,North America,Consumer,153.39,2,0.1
+ORD-10454,2025-12-09,Electronics,North America,Consumer,169.75,5,0.0
+ORD-10455,2025-06-07,Apparel,North America,Consumer,113.09,5,0.0
+ORD-10456,2025-08-03,Electronics,Asia-Pacific,Consumer,598.19,1,0.05
+ORD-10457,2025-06-26,Home & Kitchen,North America,Consumer,145.01,1,0.15
+ORD-10458,2025-06-24,Electronics,Europe,Corporate,290.19,3,0.05
+ORD-10459,2025-12-06,Electronics,Latin America,Small Business,578.28,2,0.0
+ORD-10460,2025-12-04,Electronics,North America,Consumer,406.01,4,0.0
+ORD-10461,2025-05-26,Apparel,Europe,Consumer,85.12,1,0.1
+ORD-10462,2025-11-20,Books,Asia-Pacific,Consumer,13.73,4,0.0
+ORD-10463,2025-06-10,Apparel,Latin America,Small Business,85.78,4,0.05
+ORD-10464,2025-05-07,Sports,Asia-Pacific,Consumer,249.87,2,0.0
+ORD-10465,2025-03-23,Home & Kitchen,Asia-Pacific,Consumer,38.2,3,0.0
+ORD-10466,2025-05-27,Home & Kitchen,Asia-Pacific,Consumer,196.12,2,0.05
+ORD-10467,2025-08-27,Sports,Europe,Consumer,116.55,1,0.05
+ORD-10468,2025-03-25,Electronics,Asia-Pacific,Consumer,715.99,4,0.0
+ORD-10469,2025-04-23,Sports,North America,Small Business,201.04,2,0.0
+ORD-10470,2025-08-13,Electronics,Latin America,Consumer,518.56,2,0.1
+ORD-10471,2025-11-28,Sports,Europe,Corporate,191.15,2,0.0
+ORD-10472,2025-08-31,Electronics,Europe,Consumer,721.04,1,0.05
+ORD-10473,2025-05-23,Sports,North America,Corporate,115.93,3,0.2
+ORD-10474,2025-02-10,Apparel,Asia-Pacific,Corporate,52.7,2,0.0
+ORD-10475,2025-09-15,Sports,North America,Consumer,175.21,1,0.15
+ORD-10476,2025-10-12,Electronics,Asia-Pacific,Consumer,675.1,4,0.0
+ORD-10477,2025-04-15,Apparel,Asia-Pacific,Consumer,96.23,5,0.05
+ORD-10478,2025-07-21,Sports,North America,Corporate,204.51,1,0.0
+ORD-10479,2025-11-03,Apparel,Asia-Pacific,Consumer,63.56,5,0.2
+ORD-10480,2025-11-27,Apparel,Asia-Pacific,Small Business,101.78,2,0.0
+ORD-10481,2025-09-23,Apparel,Europe,Consumer,32.02,2,0.0
+ORD-10482,2025-07-29,Home & Kitchen,North America,Corporate,122.56,1,0.2
+ORD-10483,2025-02-20,Apparel,North America,Corporate,20.58,5,0.05
+ORD-10484,2025-04-28,Apparel,North America,Corporate,52.46,2,0.05
+ORD-10485,2025-07-20,Sports,North America,Consumer,107.45,4,0.0
+ORD-10486,2025-02-08,Electronics,Latin America,Consumer,407.51,3,0.1
+ORD-10487,2025-01-28,Home & Kitchen,North America,Corporate,148.23,3,0.0
+ORD-10488,2025-09-16,Sports,Asia-Pacific,Consumer,112.43,2,0.0
+ORD-10489,2025-03-25,Sports,North America,Consumer,125.96,5,0.05
+ORD-10490,2025-06-04,Home & Kitchen,Europe,Consumer,70.38,2,0.0
+ORD-10491,2025-04-27,Apparel,Asia-Pacific,Consumer,57.33,5,0.2
+ORD-10492,2025-01-02,Home & Kitchen,Asia-Pacific,Consumer,68.64,4,0.15
+ORD-10493,2025-04-03,Electronics,North America,Consumer,197.58,5,0.1
+ORD-10494,2025-06-15,Home & Kitchen,Europe,Consumer,132.59,2,0.1
+ORD-10495,2025-12-16,Home & Kitchen,Europe,Corporate,143.6,4,0.05
+ORD-10496,2025-10-23,Apparel,North America,Corporate,81.95,1,0.0
+ORD-10497,2025-09-15,Electronics,North America,Corporate,451.27,3,0.1
+ORD-10498,2025-03-22,Sports,Europe,Small Business,110.45,2,0.0
+ORD-10499,2025-09-25,Sports,Europe,Consumer,219.25,2,0.0
+ORD-10500,2025-08-23,Apparel,Asia-Pacific,Consumer,71.91,2,0.1
+ORD-10501,2025-11-17,Apparel,North America,Consumer,67.92,4,0.05
+ORD-10502,2025-11-07,Home & Kitchen,Europe,Consumer,34.36,1,0.15
+ORD-10503,2025-10-28,Books,Europe,Small Business,21.94,5,0.0
+ORD-10504,2025-12-23,Apparel,Asia-Pacific,Consumer,58.02,1,0.05
+ORD-10505,2025-08-01,Electronics,Asia-Pacific,Consumer,409.23,4,0.0
+ORD-10506,2025-03-03,Sports,Europe,Consumer,155.54,2,0.05
+ORD-10507,2025-02-18,Books,Asia-Pacific,Consumer,28.68,3,0.1
+ORD-10508,2025-05-07,Sports,North America,Corporate,161.78,2,0.05
+ORD-10509,2025-08-11,Books,Europe,Consumer,36.77,5,0.0
+ORD-10510,2025-10-06,Apparel,North America,Small Business,101.3,3,0.0
+ORD-10511,2025-10-21,Home & Kitchen,Europe,Consumer,152.08,2,0.0
+ORD-10512,2025-10-11,Sports,Asia-Pacific,Consumer,239.99,3,0.05
+ORD-10513,2025-10-04,Sports,Asia-Pacific,Small Business,29.1,1,0.15
+ORD-10514,2025-04-17,Electronics,North America,Consumer,277.26,4,0.0
+ORD-10515,2025-05-26,Electronics,Europe,Small Business,154.92,2,0.1
+ORD-10516,2025-04-09,Home & Kitchen,Europe,Small Business,140.07,5,0.15
+ORD-10517,2025-03-14,Books,North America,Corporate,41.43,1,0.05
+ORD-10518,2025-05-02,Sports,North America,Corporate,79.78,2,0.05
+ORD-10519,2025-01-30,Electronics,North America,Consumer,752.57,1,0.1
+ORD-10520,2025-07-07,Apparel,North America,Small Business,26.03,5,0.0
+ORD-10521,2025-12-30,Home & Kitchen,North America,Consumer,188.85,2,0.0
+ORD-10522,2025-12-20,Sports,North America,Corporate,104.12,5,0.0
+ORD-10523,2025-10-15,Books,North America,Small Business,13.55,3,0.2
+ORD-10524,2025-07-14,Books,Asia-Pacific,Small Business,27.01,5,0.15
+ORD-10525,2025-06-05,Home & Kitchen,Europe,Corporate,73.65,3,0.1
+ORD-10526,2025-06-21,Home & Kitchen,Latin America,Consumer,78.43,2,0.0
+ORD-10527,2025-12-01,Home & Kitchen,Europe,Small Business,82.24,3,0.0
+ORD-10528,2025-02-10,Electronics,Asia-Pacific,Corporate,671.97,2,0.0
+ORD-10529,2025-03-04,Sports,Asia-Pacific,Small Business,146.31,2,0.0
+ORD-10530,2025-01-23,Books,Europe,Corporate,20.9,4,0.05
+ORD-10531,2025-12-26,Sports,Europe,Consumer,162.33,2,0.2
+ORD-10532,2025-03-16,Sports,Asia-Pacific,Consumer,186.13,3,0.15
+ORD-10533,2025-02-17,Apparel,North America,Consumer,47.26,4,0.05
+ORD-10534,2025-06-09,Books,North America,Corporate,24.47,4,0.0
+ORD-10535,2025-11-09,Sports,Europe,Consumer,52.42,2,0.0
+ORD-10536,2025-04-28,Books,Europe,Consumer,16.34,5,0.0
+ORD-10537,2025-04-10,Electronics,North America,Consumer,592.73,5,0.1
+ORD-10538,2025-06-16,Home & Kitchen,Latin America,Corporate,60.84,4,0.1
+ORD-10539,2025-10-17,Electronics,Europe,Consumer,491.36,2,0.0
+ORD-10540,2025-06-05,Sports,Europe,Consumer,184.54,5,0.0
+ORD-10541,2025-01-07,Apparel,Latin America,Consumer,30.69,2,0.0
+ORD-10542,2025-07-15,Electronics,Europe,Consumer,518.75,2,0.0
+ORD-10543,2025-02-25,Apparel,Latin America,Consumer,45.66,4,0.0
+ORD-10544,2025-11-17,Apparel,Europe,Consumer,116.29,4,0.0
+ORD-10545,2025-07-12,Home & Kitchen,North America,Consumer,112.2,1,0.0
+ORD-10546,2025-02-16,Electronics,Asia-Pacific,Small Business,673.9,5,0.15
+ORD-10547,2025-05-28,Apparel,Europe,Small Business,75.02,5,0.05
+ORD-10548,2025-10-02,Apparel,Asia-Pacific,Consumer,24.34,5,0.0
+ORD-10549,2025-06-06,Books,Latin America,Small Business,32.16,3,0.0
+ORD-10550,2025-07-21,Apparel,Asia-Pacific,Consumer,115.14,2,0.0
+ORD-10551,2025-05-06,Sports,Europe,Corporate,160.36,4,0.0
+ORD-10552,2025-11-01,Apparel,Asia-Pacific,Corporate,101.92,5,0.0
+ORD-10553,2025-10-21,Apparel,Europe,Consumer,108.42,1,0.05
+ORD-10554,2025-03-05,Sports,Europe,Consumer,76.32,5,0.05
+ORD-10555,2025-11-21,Home & Kitchen,Asia-Pacific,Consumer,66.05,2,0.1
+ORD-10556,2025-06-25,Electronics,North America,Consumer,547.14,2,0.0
+ORD-10557,2025-04-26,Electronics,Asia-Pacific,Corporate,417.17,4,0.1
+ORD-10558,2025-07-23,Books,Asia-Pacific,Consumer,39.4,3,0.0
+ORD-10559,2025-11-17,Apparel,Asia-Pacific,Consumer,110.0,4,0.0
+ORD-10560,2025-01-31,Books,Europe,Consumer,22.37,5,0.05
+ORD-10561,2025-04-23,Electronics,Asia-Pacific,Consumer,303.97,1,0.05
+ORD-10562,2025-12-31,Electronics,Europe,Consumer,657.34,4,0.15
+ORD-10563,2025-11-21,Electronics,Asia-Pacific,Consumer,328.62,3,0.1
+ORD-10564,2025-12-10,Home & Kitchen,North America,Small Business,169.84,4,0.15
+ORD-10565,2025-03-08,Apparel,North America,Consumer,62.37,2,0.15
+ORD-10566,2025-03-16,Home & Kitchen,North America,Consumer,143.48,5,0.05
+ORD-10567,2025-02-14,Home & Kitchen,Europe,Corporate,46.24,5,0.05
+ORD-10568,2025-09-17,Sports,Europe,Consumer,165.37,5,0.05
+ORD-10569,2025-06-03,Home & Kitchen,Asia-Pacific,Corporate,106.8,5,0.2
+ORD-10570,2025-06-04,Apparel,Europe,Corporate,78.66,5,0.1
+ORD-10571,2025-12-29,Books,Europe,Consumer,15.88,5,0.0
+ORD-10572,2025-08-22,Home & Kitchen,North America,Consumer,155.27,1,0.1
+ORD-10573,2025-02-20,Apparel,Europe,Consumer,106.28,3,0.0
+ORD-10574,2025-11-02,Sports,Europe,Consumer,73.77,5,0.0
+ORD-10575,2025-09-19,Sports,North America,Consumer,46.54,3,0.0
+ORD-10576,2025-11-11,Electronics,North America,Consumer,165.37,5,0.05
+ORD-10577,2025-05-05,Sports,North America,Consumer,169.44,4,0.15
+ORD-10578,2025-09-02,Apparel,North America,Consumer,80.71,5,0.0
+ORD-10579,2025-01-30,Home & Kitchen,Europe,Corporate,122.94,2,0.0
+ORD-10580,2025-05-02,Home & Kitchen,North America,Consumer,69.43,1,0.0
+ORD-10581,2025-05-05,Sports,Asia-Pacific,Consumer,112.95,4,0.05
+ORD-10582,2025-02-06,Apparel,Asia-Pacific,Consumer,79.45,4,0.0
+ORD-10583,2025-06-19,Home & Kitchen,Europe,Small Business,114.45,2,0.0
+ORD-10584,2025-05-04,Apparel,Latin America,Consumer,118.78,5,0.0
+ORD-10585,2025-12-23,Electronics,Europe,Small Business,238.69,1,0.0
+ORD-10586,2025-02-04,Electronics,Europe,Consumer,601.84,4,0.0
+ORD-10587,2025-03-28,Electronics,Latin America,Corporate,412.81,1,0.1
+ORD-10588,2025-05-14,Electronics,North America,Consumer,428.33,4,0.0
+ORD-10589,2025-07-15,Electronics,Latin America,Consumer,616.44,5,0.05
+ORD-10590,2025-10-01,Electronics,North America,Consumer,600.08,4,0.0
+ORD-10591,2025-07-20,Apparel,Europe,Consumer,119.13,4,0.0
+ORD-10592,2025-10-12,Electronics,North America,Consumer,233.46,3,0.0
+ORD-10593,2025-03-18,Home & Kitchen,Asia-Pacific,Consumer,47.7,5,0.1
+ORD-10594,2025-02-28,Sports,Europe,Corporate,187.98,2,0.15
+ORD-10595,2025-05-06,Apparel,Asia-Pacific,Small Business,77.84,2,0.15
+ORD-10596,2025-04-19,Apparel,North America,Consumer,47.42,5,0.05
+ORD-10597,2025-08-12,Electronics,North America,Consumer,201.62,2,0.0
+ORD-10598,2025-10-05,Electronics,North America,Consumer,205.68,5,0.1
+ORD-10599,2025-03-09,Electronics,North America,Corporate,731.22,2,0.05
+ORD-10600,2025-03-10,Electronics,Latin America,Consumer,274.71,3,0.0
+ORD-10601,2025-06-14,Home & Kitchen,North America,Small Business,84.97,2,0.1
+ORD-10602,2025-11-01,Electronics,Asia-Pacific,Consumer,297.33,4,0.0
+ORD-10603,2025-06-11,Electronics,Asia-Pacific,Consumer,380.75,5,0.0
+ORD-10604,2025-12-31,Electronics,North America,Corporate,195.13,1,0.0
+ORD-10605,2025-12-08,Home & Kitchen,Europe,Corporate,118.24,1,0.0
+ORD-10606,2025-11-05,Electronics,North America,Consumer,193.95,5,0.05
+ORD-10607,2025-12-09,Home & Kitchen,North America,Consumer,166.06,3,0.0
+ORD-10608,2025-02-11,Apparel,North America,Small Business,43.37,2,0.0
+ORD-10609,2025-12-20,Apparel,Europe,Consumer,74.0,3,0.0
+ORD-10610,2025-04-19,Electronics,Europe,Small Business,722.05,1,0.05
+ORD-10611,2025-02-20,Books,Europe,Consumer,32.78,5,0.1
+ORD-10612,2025-09-07,Apparel,Europe,Corporate,,5,0.0
+ORD-10613,2025-12-07,Electronics,North America,Corporate,360.82,3,0.0
+ORD-10614,2025-01-21,Sports,Europe,Consumer,99.93,3,0.0
+ORD-10615,2025-10-27,Sports,Asia-Pacific,Small Business,175.63,2,0.15
+ORD-10616,2025-05-19,Electronics,North America,Consumer,796.19,4,0.0
+ORD-10617,2025-12-25,Home & Kitchen,North America,Consumer,142.51,4,0.0
+ORD-10618,2025-11-20,Books,Asia-Pacific,Consumer,29.52,2,0.0
+ORD-10619,2025-04-02,Books,North America,Consumer,35.57,4,0.1
+ORD-10620,2025-10-07,Electronics,Europe,Corporate,452.38,1,0.05
+ORD-10621,2025-05-05,Electronics,North America,Consumer,189.09,4,0.0
+ORD-10622,2025-04-21,Home & Kitchen,North America,Consumer,125.59,2,0.0
+ORD-10623,2025-12-20,Apparel,North America,Consumer,115.76,4,0.0
+ORD-10624,2025-05-19,Apparel,North America,Consumer,37.53,5,0.1
+ORD-10625,2025-09-30,Home & Kitchen,Europe,Consumer,147.3,3,0.15
+ORD-10626,2025-04-09,Home & Kitchen,Europe,Corporate,64.16,1,0.05
+ORD-10627,2025-09-09,Books,Asia-Pacific,Small Business,28.75,5,0.1
+ORD-10628,2025-12-04,Electronics,Asia-Pacific,Corporate,212.84,5,0.0
+ORD-10629,2025-04-14,Home & Kitchen,Europe,Consumer,106.56,2,0.05
+ORD-10630,2025-08-02,Books,Asia-Pacific,Consumer,36.47,3,0.05
+ORD-10631,2025-09-06,Sports,North America,Consumer,103.2,3,0.0
+ORD-10632,2025-06-01,Apparel,Europe,Consumer,86.49,1,0.15
+ORD-10633,2025-09-07,Apparel,Asia-Pacific,Consumer,99.54,2,0.0
+ORD-10634,2025-10-02,Electronics,North America,Consumer,752.67,1,0.0
+ORD-10635,2025-06-14,Home & Kitchen,Europe,Consumer,69.89,4,0.05
+ORD-10636,2025-12-07,Apparel,North America,Small Business,59.93,5,0.05
+ORD-10637,2025-01-08,Electronics,Europe,Consumer,249.07,1,0.05
+ORD-10638,2025-10-11,Home & Kitchen,Asia-Pacific,Consumer,198.72,5,0.0
+ORD-10639,2025-01-05,Home & Kitchen,Asia-Pacific,Consumer,187.59,2,0.1
+ORD-10640,2025-05-25,Electronics,Asia-Pacific,Consumer,500.97,4,0.05
+ORD-10641,2025-04-11,Home & Kitchen,Asia-Pacific,Small Business,173.15,2,0.0
+ORD-10642,2025-06-13,Electronics,Europe,Consumer,488.62,4,0.2
+ORD-10643,2025-05-27,Home & Kitchen,Europe,Consumer,136.01,4,0.1
+ORD-10644,2025-03-05,Electronics,North America,Consumer,207.93,5,0.0
+ORD-10645,2025-04-01,Sports,Europe,Consumer,194.94,2,0.1
+ORD-10646,2025-04-27,Apparel,Europe,Consumer,32.77,2,0.0
+ORD-10647,2025-12-20,Apparel,Latin America,Corporate,102.61,1,0.0
+ORD-10648,2025-09-24,Books,Europe,Corporate,37.37,2,0.0
+ORD-10649,2025-11-06,Apparel,Europe,Corporate,90.87,1,0.2
+ORD-10650,2025-06-22,Electronics,Europe,Consumer,173.5,3,0.0
+ORD-10651,2025-02-16,Apparel,Europe,Corporate,50.31,3,0.05
+ORD-10652,2025-05-20,Apparel,Asia-Pacific,Consumer,46.31,3,0.0
+ORD-10653,2025-09-03,Books,North America,Consumer,22.6,2,0.1
+ORD-10654,2025-05-29,Home & Kitchen,Europe,Corporate,44.9,2,0.05
+ORD-10655,2025-09-03,Electronics,Asia-Pacific,Consumer,759.02,1,0.05
+ORD-10656,2025-01-05,Home & Kitchen,Europe,Consumer,124.15,4,0.0
+ORD-10657,2025-07-03,Home & Kitchen,North America,Corporate,81.94,1,0.1
+ORD-10658,2025-01-20,Apparel,Europe,Consumer,59.7,3,0.2
+ORD-10659,2025-02-15,Apparel,Asia-Pacific,Consumer,64.72,1,0.05
+ORD-10660,2025-01-12,Home & Kitchen,North America,Consumer,132.1,4,0.0
+ORD-10661,2025-03-11,Sports,Asia-Pacific,Small Business,141.03,2,0.15
+ORD-10662,2025-01-17,Apparel,Asia-Pacific,Small Business,111.94,1,0.0
+ORD-10663,2025-05-27,Electronics,Europe,Small Business,473.03,3,0.1
+ORD-10664,2025-06-03,Electronics,Latin America,Consumer,794.9,3,0.15
+ORD-10665,2025-10-31,Electronics,Asia-Pacific,Consumer,703.43,2,0.0
+ORD-10666,2025-04-18,Electronics,Asia-Pacific,Consumer,285.53,1,0.0
+ORD-10667,2025-08-24,Electronics,Asia-Pacific,Consumer,754.89,4,0.0
+ORD-10668,2025-11-04,Electronics,North America,Consumer,225.64,2,0.05
+ORD-10669,2025-12-18,Home & Kitchen,North America,Consumer,168.97,1,0.05
+ORD-10670,2025-03-11,Electronics,Europe,Consumer,397.41,5,0.0
+ORD-10671,2025-07-02,Sports,North America,Small Business,222.54,3,0.0
+ORD-10672,2025-09-07,Electronics,Europe,Consumer,714.24,4,0.0
+ORD-10673,2025-08-16,Apparel,Asia-Pacific,Consumer,100.59,4,0.0
+ORD-10674,2025-04-12,Home & Kitchen,Asia-Pacific,Consumer,164.31,4,0.0
+ORD-10675,2025-03-16,Sports,Europe,Small Business,93.55,3,0.15
+ORD-10676,2025-08-04,Electronics,Asia-Pacific,Corporate,202.6,1,0.0
+ORD-10677,2025-07-22,Home & Kitchen,Asia-Pacific,Corporate,98.51,2,0.15
+ORD-10678,2025-07-11,Sports,Europe,Small Business,64.04,1,0.05
+ORD-10679,2025-09-06,Sports,North America,Consumer,181.36,2,0.0
+ORD-10680,2025-08-30,Books,Europe,Consumer,22.11,4,0.1
+ORD-10681,2025-06-28,Home & Kitchen,Asia-Pacific,Consumer,195.85,1,0.05
+ORD-10682,2025-08-07,Electronics,Europe,Consumer,566.63,4,0.0
+ORD-10683,2025-03-23,Apparel,Europe,Consumer,102.25,5,0.0
+ORD-10684,2025-04-02,Sports,North America,Consumer,54.82,4,0.0
+ORD-10685,2025-06-24,Apparel,Asia-Pacific,Small Business,106.2,4,0.0
+ORD-10686,2025-08-27,Apparel,Asia-Pacific,Small Business,112.28,2,0.0
+ORD-10687,2025-09-17,Home & Kitchen,Asia-Pacific,Corporate,112.8,5,0.0
+ORD-10688,2025-12-31,Books,Latin America,Corporate,31.22,4,0.0
+ORD-10689,2025-06-12,Electronics,Asia-Pacific,Corporate,647.13,4,0.0
+ORD-10690,2025-02-17,Home & Kitchen,Latin America,Consumer,59.72,5,0.0
+ORD-10691,2025-11-25,Home & Kitchen,Latin America,Consumer,115.44,5,0.0
+ORD-10692,2025-11-24,Apparel,Asia-Pacific,Corporate,59.87,1,0.0
+ORD-10693,2025-04-26,Electronics,Europe,Corporate,245.14,2,0.2
+ORD-10694,2025-12-03,Electronics,North America,Consumer,388.9,5,0.0
+ORD-10695,2025-12-03,Apparel,Europe,Small Business,26.82,5,0.05
+ORD-10696,2025-08-13,Home & Kitchen,Europe,Consumer,34.39,3,0.0
+ORD-10697,2025-12-18,Apparel,North America,Consumer,33.52,5,0.15
+ORD-10698,2025-11-24,Electronics,North America,Corporate,776.02,2,0.0
+ORD-10699,2025-05-27,Apparel,Latin America,Consumer,74.95,4,0.2
+ORD-10700,2025-03-04,Apparel,Asia-Pacific,Consumer,116.58,4,0.05
+ORD-10701,2025-10-21,Electronics,Asia-Pacific,Consumer,431.12,4,0.0
+ORD-10702,2025-11-19,Home & Kitchen,Europe,Corporate,83.01,4,0.15
+ORD-10703,2025-11-21,Electronics,North America,Consumer,478.99,3,0.05
+ORD-10704,2025-01-13,Electronics,North America,Corporate,435.68,5,0.0
+ORD-10705,2025-07-08,Sports,North America,Consumer,48.77,4,0.1
+ORD-10706,2025-10-14,Home & Kitchen,North America,Consumer,138.94,1,0.15
+ORD-10707,2025-07-27,Books,North America,Small Business,17.56,4,0.0
+ORD-10708,2025-04-24,Home & Kitchen,Latin America,Consumer,135.33,5,0.0
+ORD-10709,2025-01-22,Apparel,Asia-Pacific,Small Business,85.02,4,0.1
+ORD-10710,2025-12-15,Books,North America,Consumer,15.32,3,0.05
+ORD-10711,2025-08-02,Apparel,North America,Small Business,26.13,2,0.15
+ORD-10712,2025-06-20,Apparel,Europe,Consumer,98.08,2,0.05
+ORD-10713,2025-11-19,Home & Kitchen,North America,Consumer,108.17,5,0.0
+ORD-10714,2025-02-23,Home & Kitchen,Latin America,Consumer,39.89,2,0.15
+ORD-10715,2025-10-25,Sports,Europe,Consumer,248.84,2,0.0
+ORD-10716,2025-11-16,Books,Europe,Corporate,12.02,1,0.0
+ORD-10717,2025-05-06,Sports,North America,Consumer,181.38,5,0.05
+ORD-10718,2025-10-04,Electronics,North America,Consumer,789.39,5,0.05
+ORD-10719,2025-07-23,Books,Europe,Consumer,18.37,2,0.0
+ORD-10720,2025-07-13,Sports,Asia-Pacific,Consumer,57.01,2,0.1
+ORD-10721,2025-06-18,Electronics,Europe,Corporate,228.9,2,0.0
+ORD-10722,2025-06-01,Electronics,North America,Consumer,347.13,3,0.0
+ORD-10723,2025-02-04,Books,Europe,Corporate,13.54,4,0.1
+ORD-10724,2025-07-03,Apparel,Europe,Corporate,89.22,3,0.0
+ORD-10725,2025-10-13,Books,Asia-Pacific,Corporate,12.18,5,0.0
+ORD-10726,2025-02-26,Electronics,North America,Consumer,481.12,1,0.0
+ORD-10727,2025-08-10,Books,North America,Corporate,44.88,4,0.2
+ORD-10728,2025-10-30,Electronics,Europe,Small Business,679.08,1,0.0
+ORD-10729,2025-06-12,Electronics,Europe,Corporate,549.89,5,0.0
+ORD-10730,2025-01-19,Electronics,Europe,Consumer,349.06,5,0.05
+ORD-10731,2025-09-21,Books,Europe,Corporate,31.84,1,0.0
+ORD-10732,2025-10-09,Apparel,Europe,Corporate,72.7,1,0.0
+ORD-10733,2025-04-23,Apparel,Asia-Pacific,Corporate,62.61,1,0.05
+ORD-10734,2025-11-23,Home & Kitchen,Europe,Consumer,52.22,5,0.0
+ORD-10735,2025-01-30,Sports,Latin America,Consumer,224.49,2,0.2
+ORD-10736,2025-05-15,Home & Kitchen,Europe,Corporate,106.46,1,0.0
+ORD-10737,2025-03-08,Books,Latin America,Consumer,16.81,4,0.0
+ORD-10738,2025-03-06,Home & Kitchen,Asia-Pacific,Corporate,92.52,5,0.0
+ORD-10739,2025-10-19,Home & Kitchen,North America,Consumer,100.4,3,0.0
+ORD-10740,2025-01-25,Home & Kitchen,Asia-Pacific,Consumer,170.68,3,0.05
+ORD-10741,2025-02-06,Home & Kitchen,North America,Consumer,154.71,4,0.0
+ORD-10742,2025-01-01,Books,Latin America,Consumer,36.93,2,0.0
+ORD-10743,2025-02-06,Apparel,Europe,Small Business,21.1,1,0.1
+ORD-10744,2025-05-21,Electronics,North America,Small Business,,5,0.05
+ORD-10745,2025-08-20,Sports,Europe,Corporate,133.3,1,0.0
+ORD-10746,2025-05-16,Home & Kitchen,Latin America,Consumer,33.26,5,0.0
+ORD-10747,2025-07-07,Apparel,North America,Corporate,45.98,3,0.0
+ORD-10748,2025-05-08,Sports,Europe,Corporate,196.07,1,0.0
+ORD-10749,2025-07-20,Apparel,Asia-Pacific,Consumer,33.71,4,0.0
+ORD-10750,2025-05-07,Electronics,Asia-Pacific,Consumer,497.95,2,0.05
+ORD-10751,2025-09-14,Sports,Europe,Corporate,73.42,4,0.15
+ORD-10752,2025-06-13,Apparel,North America,Corporate,21.21,2,0.0
+ORD-10753,2025-02-04,Home & Kitchen,North America,Small Business,71.0,1,0.0
+ORD-10754,2025-07-13,Electronics,Europe,Consumer,784.32,1,0.0
+ORD-10755,2025-07-10,Books,Europe,Corporate,38.05,2,0.0
+ORD-10756,2025-04-14,Apparel,Latin America,Consumer,115.96,3,0.0
+ORD-10757,2025-01-23,Apparel,North America,Consumer,68.79,5,0.15
+ORD-10758,2025-09-22,Sports,Europe,Consumer,49.69,4,0.05
+ORD-10759,2025-10-17,Books,North America,Consumer,29.18,4,0.2
+ORD-10760,2025-09-17,Electronics,North America,Consumer,445.35,4,0.15
+ORD-10761,2025-12-24,Home & Kitchen,Europe,Consumer,173.54,1,0.0
+ORD-10762,2025-03-16,Electronics,Europe,Corporate,213.75,4,0.05
+ORD-10763,2025-12-21,Books,Europe,Corporate,27.09,5,0.0
+ORD-10764,2025-03-13,Electronics,Latin America,Consumer,247.53,5,0.0
+ORD-10765,2025-09-16,Apparel,Europe,Small Business,52.47,2,0.15
+ORD-10766,2025-07-07,Books,Latin America,Consumer,35.81,1,0.0
+ORD-10767,2025-06-22,Sports,Asia-Pacific,Consumer,132.1,5,0.15
+ORD-10768,2025-10-17,Home & Kitchen,Europe,Corporate,93.9,3,0.0
+ORD-10769,2025-02-14,Books,Asia-Pacific,Consumer,23.81,1,0.15
+ORD-10770,2025-03-02,Electronics,Europe,Consumer,448.64,1,0.15
+ORD-10771,2025-03-24,Books,North America,Consumer,37.48,5,0.05
+ORD-10772,2025-05-03,Electronics,Asia-Pacific,Consumer,729.86,3,0.05
+ORD-10773,2025-12-24,Home & Kitchen,North America,Corporate,192.41,2,0.0
+ORD-10774,2025-01-16,Books,Europe,Consumer,37.54,5,0.1
+ORD-10775,2025-03-07,Electronics,Asia-Pacific,Consumer,355.01,3,0.2
+ORD-10776,2025-05-25,Electronics,North America,Consumer,597.29,1,0.1
+ORD-10777,2025-06-11,Books,North America,Corporate,25.32,3,0.05
+ORD-10778,2025-08-22,Books,Latin America,Consumer,18.91,1,0.05
+ORD-10779,2025-05-24,Apparel,Europe,Corporate,104.09,5,0.1
+ORD-10780,2025-12-24,Apparel,North America,Consumer,23.84,5,0.05
+ORD-10781,2025-07-07,Apparel,Europe,Consumer,110.18,4,0.1
+ORD-10782,2025-11-18,Home & Kitchen,Europe,Consumer,108.45,4,0.05
+ORD-10783,2025-01-13,Home & Kitchen,Europe,Consumer,138.32,4,0.0
+ORD-10784,2025-07-03,Electronics,Latin America,Consumer,578.58,5,0.0
+ORD-10785,2025-04-21,Sports,Europe,Consumer,226.4,2,0.0
+ORD-10786,2025-10-17,Apparel,North America,Small Business,83.67,5,0.0
+ORD-10787,2025-10-22,Home & Kitchen,Asia-Pacific,Consumer,134.37,3,0.0
+ORD-10788,2025-08-03,Home & Kitchen,Asia-Pacific,Corporate,41.33,5,0.05
+ORD-10789,2025-04-30,Sports,North America,Consumer,141.64,5,0.0
+ORD-10790,2025-02-24,Electronics,North America,Consumer,247.61,1,0.0
+ORD-10791,2025-01-27,Apparel,North America,Consumer,93.74,1,0.1
+ORD-10792,2025-04-28,Apparel,Europe,Small Business,71.22,1,0.2
+ORD-10793,2025-08-09,Apparel,Europe,Consumer,88.02,5,0.1
+ORD-10794,2025-08-19,Electronics,Europe,Consumer,177.09,2,0.2
+ORD-10795,2025-02-22,Sports,Latin America,Consumer,44.08,3,0.05
+ORD-10796,2025-10-22,Sports,Asia-Pacific,Consumer,186.17,3,0.0
+ORD-10797,2025-11-17,Apparel,North America,Consumer,27.21,2,0.05
+ORD-10798,2025-08-21,Apparel,North America,Consumer,27.13,2,0.1
+ORD-10799,2025-06-07,Sports,Europe,Consumer,27.72,3,0.0
+ORD-10800,2025-09-26,Books,North America,Consumer,43.48,4,0.0
+ORD-10801,2025-01-21,Electronics,Europe,Corporate,629.38,1,0.1
+ORD-10802,2025-02-22,Apparel,Asia-Pacific,Consumer,55.33,1,0.0
+ORD-10803,2025-10-02,Apparel,North America,Consumer,49.65,3,0.05
+ORD-10804,2025-11-09,Home & Kitchen,Europe,Consumer,89.45,2,0.0
+ORD-10805,2025-10-08,Books,Asia-Pacific,Corporate,37.11,4,0.05
+ORD-10806,2025-08-02,Sports,Europe,Consumer,173.81,3,0.05
+ORD-10807,2025-01-31,Sports,North America,Consumer,66.67,1,0.0
+ORD-10808,2025-12-03,Home & Kitchen,Europe,Consumer,59.6,5,0.0
+ORD-10809,2025-07-02,Electronics,North America,Consumer,213.96,2,0.05
+ORD-10810,2025-01-23,Sports,Latin America,Consumer,173.57,5,0.1
+ORD-10811,2025-02-01,Books,North America,Corporate,36.75,3,0.15
+ORD-10812,2025-03-15,Electronics,Europe,Corporate,322.28,1,0.0
+ORD-10813,2025-01-10,Sports,Europe,Corporate,29.71,4,0.1
+ORD-10814,2025-02-23,Sports,Latin America,Consumer,43.49,5,0.0
+ORD-10815,2025-02-21,Apparel,North America,Consumer,116.79,4,0.0
+ORD-10816,2025-05-28,Apparel,North America,Consumer,49.54,1,0.0
+ORD-10817,2025-06-09,Home & Kitchen,North America,Consumer,160.77,5,0.05
+ORD-10818,2025-01-14,Electronics,North America,Consumer,556.03,4,0.0
+ORD-10819,2025-06-27,Home & Kitchen,North America,Corporate,94.93,4,0.0
+ORD-10820,2025-02-22,Books,Europe,Consumer,17.2,5,0.05
+ORD-10821,2025-12-01,Electronics,North America,Consumer,228.9,1,0.1
+ORD-10822,2025-01-22,Home & Kitchen,North America,Consumer,134.55,4,0.0
+ORD-10823,2025-01-30,Home & Kitchen,Asia-Pacific,Consumer,161.69,3,0.0
+ORD-10824,2025-07-10,Apparel,North America,Consumer,84.39,5,0.0
+ORD-10825,2025-09-17,Sports,North America,Corporate,144.32,2,0.0
+ORD-10826,2025-07-24,Home & Kitchen,North America,Consumer,37.13,2,0.05
+ORD-10827,2025-02-28,Home & Kitchen,Latin America,Corporate,194.64,1,0.0
+ORD-10828,2025-09-21,Books,North America,Corporate,37.95,3,0.05
+ORD-10829,2025-01-12,Home & Kitchen,Asia-Pacific,Corporate,79.78,4,0.15
+ORD-10830,2025-04-29,Electronics,Asia-Pacific,Consumer,786.98,2,0.0
+ORD-10831,2025-10-17,Home & Kitchen,North America,Consumer,132.32,1,0.2
+ORD-10832,2025-12-04,Electronics,Latin America,Consumer,528.57,3,0.0
+ORD-10833,2025-09-05,Electronics,North America,Corporate,636.25,3,0.0
+ORD-10834,2025-12-20,Apparel,North America,Consumer,101.18,1,0.0
+ORD-10835,2025-05-07,Home & Kitchen,Asia-Pacific,Small Business,141.6,1,0.0
+ORD-10836,2025-03-16,Sports,Asia-Pacific,Consumer,53.82,4,0.0
+ORD-10837,2025-12-27,Home & Kitchen,Europe,Consumer,87.51,1,0.0
+ORD-10838,2025-07-23,Apparel,North America,Consumer,112.81,4,0.1
+ORD-10839,2025-02-18,Apparel,Europe,Consumer,42.46,4,0.15
+ORD-10840,2025-03-20,Electronics,Asia-Pacific,Consumer,391.91,5,0.05
+ORD-10841,2025-08-29,Apparel,North America,Corporate,63.21,3,0.0
+ORD-10842,2025-12-15,Electronics,North America,Corporate,435.61,3,0.05
+ORD-10843,2025-06-03,Sports,North America,Corporate,162.91,3,0.05
+ORD-10844,2025-10-01,Electronics,North America,Small Business,763.0,5,0.1
+ORD-10845,2025-04-06,Home & Kitchen,Asia-Pacific,Corporate,70.92,4,0.1
+ORD-10846,2025-08-02,Electronics,Europe,Consumer,228.98,4,0.15
+ORD-10847,2025-10-21,Sports,Latin America,Corporate,69.43,1,0.0
+ORD-10848,2025-07-28,Apparel,North America,Consumer,108.69,5,0.05
+ORD-10849,2025-12-09,Apparel,Asia-Pacific,Consumer,84.58,1,0.0
+ORD-10850,2025-03-29,Electronics,North America,Corporate,335.84,5,0.2
+ORD-10851,2025-11-02,Books,North America,Consumer,38.56,1,0.0
+ORD-10852,2025-09-21,Electronics,North America,Consumer,709.89,2,0.0
+ORD-10853,2025-11-21,Sports,North America,Consumer,215.47,3,0.0
+ORD-10854,2025-11-16,Electronics,Europe,Consumer,747.3,3,0.1
+ORD-10855,2025-06-06,Electronics,Latin America,Small Business,313.96,4,0.0
+ORD-10856,2025-06-05,Electronics,Europe,Consumer,640.78,2,0.0
+ORD-10857,2025-05-19,Apparel,North America,Consumer,66.05,3,0.2
+ORD-10858,2025-05-01,Apparel,North America,Consumer,104.2,4,0.15
+ORD-10859,2025-03-06,Electronics,North America,Consumer,623.52,2,0.0
+ORD-10860,2025-04-17,Books,Europe,Small Business,37.18,3,0.0
+ORD-10861,2025-05-27,Home & Kitchen,Asia-Pacific,Consumer,141.55,1,0.1
+ORD-10862,2025-05-17,Apparel,Latin America,Consumer,37.74,5,0.15
+ORD-10863,2025-06-11,Home & Kitchen,North America,Corporate,122.65,2,0.05
+ORD-10864,2025-04-10,Home & Kitchen,Europe,Small Business,197.39,4,0.05
+ORD-10865,2025-12-04,Apparel,Europe,Corporate,113.74,2,0.0
+ORD-10866,2025-11-03,Electronics,Europe,Corporate,178.06,4,0.1
+ORD-10867,2025-05-21,Electronics,Europe,Consumer,257.13,2,0.05
+ORD-10868,2025-03-24,Sports,Europe,Consumer,54.64,4,0.05
+ORD-10869,2025-06-26,Sports,Europe,Consumer,188.35,3,0.0
+ORD-10870,2025-07-17,Home & Kitchen,North America,Small Business,169.02,1,0.15
+ORD-10871,2025-04-22,Home & Kitchen,Asia-Pacific,Consumer,66.3,3,0.05
+ORD-10872,2025-02-25,Apparel,North America,Consumer,70.59,1,0.0
+ORD-10873,2025-06-28,Home & Kitchen,Europe,Consumer,172.92,3,0.05
+ORD-10874,2025-07-05,Electronics,Europe,Consumer,626.32,3,0.05
+ORD-10875,2025-08-06,Electronics,Europe,Consumer,502.45,2,0.05
+ORD-10876,2025-11-12,Books,Latin America,Small Business,30.66,5,0.1
+ORD-10877,2025-08-05,Apparel,Asia-Pacific,Consumer,70.84,4,0.05
+ORD-10878,2025-04-30,Electronics,Asia-Pacific,Corporate,343.41,4,0.15
+ORD-10879,2025-06-24,Electronics,Europe,Corporate,517.26,4,0.0
+ORD-10880,2025-01-23,Electronics,Asia-Pacific,Consumer,597.78,1,0.0
+ORD-10881,2025-08-01,Apparel,Europe,Consumer,107.33,4,0.0
+ORD-10882,2025-08-23,Electronics,Asia-Pacific,Consumer,563.59,4,0.05
+ORD-10883,2025-01-13,Electronics,Europe,Consumer,644.73,2,0.05
+ORD-10884,2025-04-11,Books,Latin America,Corporate,15.6,3,0.15
+ORD-10885,2025-01-24,Electronics,Latin America,Consumer,450.01,4,0.1
+ORD-10886,2025-12-30,Apparel,Asia-Pacific,Consumer,20.93,5,0.05
+ORD-10887,2025-01-11,Electronics,North America,Consumer,310.34,4,0.2
+ORD-10888,2025-09-30,Electronics,North America,Small Business,622.2,1,0.0
+ORD-10889,2025-10-08,Electronics,Asia-Pacific,Corporate,794.68,1,0.1
+ORD-10890,2025-04-04,Books,North America,Corporate,13.47,1,0.0
+ORD-10891,2025-07-20,Sports,Asia-Pacific,Corporate,115.34,4,0.05
+ORD-10892,2025-01-21,Books,Europe,Consumer,38.0,2,0.1
+ORD-10893,2025-12-06,Home & Kitchen,Europe,Corporate,64.69,5,0.05
+ORD-10894,2025-07-30,Apparel,Latin America,Consumer,75.51,4,0.0
+ORD-10895,2025-05-20,Electronics,Europe,Corporate,626.5,2,0.0
+ORD-10896,2025-10-20,Home & Kitchen,Europe,Corporate,134.72,2,0.05
+ORD-10897,2025-10-25,Sports,Europe,Consumer,67.31,4,0.1
+ORD-10898,2025-04-11,Electronics,North America,Corporate,381.0,4,0.0
+ORD-10899,2025-10-31,Electronics,Asia-Pacific,Small Business,659.46,2,0.15
+ORD-10900,2025-12-25,Electronics,North America,Consumer,510.25,2,0.0
+ORD-10901,2025-01-28,Electronics,Latin America,Corporate,153.4,2,0.05
+ORD-10902,2025-02-10,Electronics,Asia-Pacific,Consumer,644.64,4,0.1
+ORD-10903,2025-12-21,Apparel,North America,Consumer,23.53,2,0.05
+ORD-10904,2025-10-30,Home & Kitchen,Asia-Pacific,Consumer,156.77,1,0.2
+ORD-10905,2025-05-26,Sports,Europe,Consumer,70.56,4,0.05
+ORD-10906,2025-09-13,Books,North America,Small Business,43.53,1,0.05
+ORD-10907,2025-08-15,Home & Kitchen,Latin America,Small Business,92.55,3,0.0
+ORD-10908,2025-08-24,Home & Kitchen,North America,Corporate,85.58,4,0.0
+ORD-10909,2025-12-27,Home & Kitchen,North America,Consumer,55.31,3,0.0
+ORD-10910,2025-01-13,Apparel,Europe,Small Business,50.56,2,0.1
+ORD-10911,2025-07-29,Home & Kitchen,Europe,Consumer,179.03,2,0.0
+ORD-10912,2025-08-17,Apparel,Europe,Small Business,119.63,5,0.0
+ORD-10913,2025-04-10,Home & Kitchen,Asia-Pacific,Consumer,92.61,2,0.0
+ORD-10914,2025-01-31,Apparel,Europe,Consumer,64.86,3,0.0
+ORD-10915,2025-01-16,Home & Kitchen,Europe,Corporate,152.75,2,0.0
+ORD-10916,2025-05-17,Home & Kitchen,North America,Consumer,180.65,4,0.15
+ORD-10917,2025-11-25,Sports,North America,Consumer,158.43,2,0.1
+ORD-10918,2025-06-15,Books,North America,Consumer,23.7,5,0.1
+ORD-10919,2025-11-06,Electronics,North America,Consumer,418.2,2,0.1
+ORD-10920,2025-04-10,Sports,Europe,Consumer,181.51,3,0.0
+ORD-10921,2025-04-19,Apparel,North America,Consumer,20.32,3,0.15
+ORD-10922,2025-12-09,Sports,North America,Consumer,164.41,2,0.0
+ORD-10923,2025-06-22,Books,North America,Consumer,22.44,3,0.0
+ORD-10924,2025-08-25,Home & Kitchen,Latin America,Corporate,165.01,3,0.05
+ORD-10925,2025-06-11,Electronics,Latin America,Consumer,210.44,5,0.0
+ORD-10926,2025-08-04,Home & Kitchen,Europe,Small Business,129.99,4,0.1
+ORD-10927,2025-09-21,Apparel,Latin America,Small Business,68.1,5,0.0
+ORD-10928,2025-09-20,Apparel,Asia-Pacific,Consumer,84.23,1,0.1
+ORD-10929,2025-10-19,Home & Kitchen,Europe,Corporate,41.03,5,0.0
+ORD-10930,2025-10-01,Electronics,North America,Corporate,526.99,2,0.0
+ORD-10931,2025-01-03,Books,Asia-Pacific,Small Business,29.65,4,0.1
+ORD-10932,2025-01-28,Sports,Asia-Pacific,Consumer,,2,0.0
+ORD-10933,2025-11-22,Apparel,Europe,Consumer,80.35,1,0.0
+ORD-10934,2025-05-29,Electronics,Asia-Pacific,Corporate,589.7,4,0.0
+ORD-10935,2025-01-28,Home & Kitchen,Europe,Corporate,166.85,3,0.05
+ORD-10936,2025-11-06,Electronics,Asia-Pacific,Corporate,325.38,5,0.05
+ORD-10937,2025-03-06,Sports,Latin America,Consumer,210.64,2,0.0
+ORD-10938,2025-12-22,Electronics,North America,Small Business,473.87,1,0.2
+ORD-10939,2025-01-21,Apparel,Asia-Pacific,Small Business,27.71,3,0.15
+ORD-10940,2025-09-09,Home & Kitchen,Europe,Consumer,39.95,5,0.1
+ORD-10941,2025-08-23,Apparel,Europe,Consumer,53.42,3,0.1
+ORD-10942,2025-08-15,Apparel,Asia-Pacific,Consumer,98.49,5,0.0
+ORD-10943,2025-01-13,Books,North America,Corporate,34.77,4,0.05
+ORD-10944,2025-11-09,Electronics,Europe,Corporate,662.6,3,0.0
+ORD-10945,2025-02-18,Electronics,North America,Corporate,486.22,3,0.0
+ORD-10946,2025-04-28,Electronics,Europe,Consumer,436.13,3,0.2
+ORD-10947,2025-02-23,Sports,Europe,Consumer,58.18,4,0.05
+ORD-10948,2025-05-18,Sports,Asia-Pacific,Consumer,98.84,1,0.0
+ORD-10949,2025-02-22,Apparel,North America,Consumer,63.4,5,0.0
+ORD-10950,2025-02-13,Apparel,Europe,Corporate,28.86,3,0.05
+ORD-10951,2025-10-30,Apparel,North America,Small Business,42.06,4,0.0
+ORD-10952,2025-02-22,Electronics,Asia-Pacific,Small Business,538.85,1,0.0
+ORD-10953,2025-03-15,Sports,Latin America,Small Business,190.52,5,0.0
+ORD-10954,2025-02-15,Home & Kitchen,Latin America,Consumer,199.72,4,0.0
+ORD-10955,2025-01-13,Home & Kitchen,Asia-Pacific,Consumer,188.63,5,0.05
+ORD-10956,2025-06-14,Apparel,Asia-Pacific,Corporate,84.26,3,0.0
+ORD-10957,2025-04-12,Electronics,North America,Small Business,423.81,1,0.1
+ORD-10958,2025-10-07,Electronics,North America,Consumer,563.52,4,0.0
+ORD-10959,2025-09-15,Books,Europe,Consumer,37.5,1,0.05
+ORD-10960,2025-12-03,Electronics,Asia-Pacific,Consumer,226.92,3,0.2
+ORD-10961,2025-12-22,Apparel,Latin America,Corporate,60.99,1,0.05
+ORD-10962,2025-05-18,Electronics,North America,Consumer,695.87,1,0.15
+ORD-10963,2025-06-12,Home & Kitchen,Latin America,Consumer,95.25,2,0.15
+ORD-10964,2025-04-21,Home & Kitchen,Europe,Consumer,127.22,1,0.0
+ORD-10965,2025-04-12,Home & Kitchen,Europe,Consumer,129.92,5,0.1
+ORD-10966,2025-01-17,Books,North America,Small Business,16.46,4,0.15
+ORD-10967,2025-09-25,Home & Kitchen,North America,Consumer,91.58,2,0.0
+ORD-10968,2025-07-01,Apparel,Europe,Corporate,53.45,4,0.0
+ORD-10969,2025-01-24,Apparel,Europe,Corporate,22.62,4,0.15
+ORD-10970,2025-01-29,Apparel,North America,Small Business,22.42,3,0.1
+ORD-10971,2025-06-20,Sports,Europe,Consumer,212.13,3,0.0
+ORD-10972,2025-08-16,Books,Asia-Pacific,Small Business,19.56,2,0.0
+ORD-10973,2025-07-07,Electronics,Asia-Pacific,Consumer,486.75,3,0.1
+ORD-10974,2025-12-12,Electronics,Latin America,Small Business,344.17,3,0.05
+ORD-10975,2025-08-18,Home & Kitchen,North America,Small Business,189.92,3,0.05
+ORD-10976,2025-11-17,Apparel,North America,Consumer,45.93,4,0.1
+ORD-10977,2025-12-06,Electronics,Asia-Pacific,Consumer,429.28,2,0.05
+ORD-10978,2025-04-29,Apparel,Europe,Consumer,107.27,4,0.05
+ORD-10979,2025-06-05,Apparel,North America,Consumer,104.19,5,0.1
+ORD-10980,2025-09-29,Home & Kitchen,North America,Consumer,61.64,4,0.1
+ORD-10981,2025-06-24,Books,Europe,Consumer,38.09,5,0.05
+ORD-10982,2025-04-14,Electronics,North America,Consumer,447.82,1,0.0
+ORD-10983,2025-04-02,Electronics,North America,Consumer,463.93,1,0.0
+ORD-10984,2025-07-05,Books,North America,Consumer,14.67,5,0.2
+ORD-10985,2025-10-10,Apparel,North America,Consumer,28.06,5,0.0
+ORD-10986,2025-06-30,Apparel,Europe,Consumer,92.79,4,0.0
+ORD-10987,2025-06-19,Home & Kitchen,Europe,Consumer,114.4,5,0.0
+ORD-10988,2025-07-06,Electronics,Europe,Consumer,433.95,2,0.1
+ORD-10989,2025-06-24,Books,North America,Consumer,35.53,1,0.0
+ORD-10990,2025-08-10,Books,North America,Small Business,36.79,1,0.0
+ORD-10991,2025-08-21,Apparel,Europe,Consumer,35.89,5,0.0
+ORD-10992,2025-06-11,Home & Kitchen,Europe,Consumer,133.74,3,0.1
+ORD-10993,2025-05-14,Apparel,Europe,Consumer,33.54,3,0.0
+ORD-10994,2025-08-12,Home & Kitchen,North America,Corporate,157.73,5,0.0
+ORD-10995,2025-06-02,Electronics,Latin America,Small Business,577.02,2,0.0
+ORD-10996,2025-02-02,Sports,North America,Small Business,240.24,3,0.15
+ORD-10997,2025-02-24,Electronics,Europe,Corporate,194.82,5,0.0
+ORD-10998,2025-01-07,Sports,Europe,Consumer,37.84,2,0.0
+ORD-10999,2025-09-01,Home & Kitchen,Europe,Consumer,77.97,2,0.05
+ORD-10521,2025-12-30,Home & Kitchen,North America,Consumer,188.85,2,0.0
+ORD-10737,2025-03-08,Books,Latin America,Consumer,16.81,4,0.0
+ORD-10740,2025-01-25,Home & Kitchen,Asia-Pacific,Consumer,170.68,3,0.05
+ORD-10660,2025-01-12,Home & Kitchen,North America,Consumer,132.1,4,0.0
+ORD-10411,2025-07-11,Sports,Europe,Corporate,50.18,4,0.15
+ORD-10678,2025-07-11,Sports,Europe,Small Business,64.04,1,0.05
+ORD-10626,2025-04-09,Home & Kitchen,Europe,Corporate,64.16,1,0.05
+ORD-10513,2025-10-04,Sports,Asia-Pacific,Small Business,29.1,1,0.15
+ORD-10859,2025-03-06,Electronics,North America,Consumer,623.52,2,0.0
+ORD-10136,2025-04-14,Apparel,Europe,Corporate,105.12,5,0.15
